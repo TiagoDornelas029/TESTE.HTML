@@ -1,0 +1,42 @@
+HTML
+Location: "GitHub"
+Content-Type: text/html; charset=utf-8
+[
+   {
+       "name" : "god of War Ragnarok",
+       "price" : 299.00,
+       "image" : "gowragnarok.jpg",
+       "type" : "adventure"
+   },
+   {
+       "name" : "god of War 2018",
+       "price" : 99.00,
+       "image" : "gow2018.jpg",
+       "type" : "adventure"
+   },
+   {
+       "name" : "uncharted 2",
+       "price" : 99.00,
+       "image" : "uc.jpg",
+       "type" : "adventure"
+   },
+   {
+       "name" : "horizon Zero Dawn",
+       "price" : 99.00,
+       "image" : "hzd.jpg",
+       "type" : "rpg"
+   },
+   { 
+       "name" : "ghost of Tsushima",
+       "price" : 199.00,
+       "image" : "got.jpg",
+       "type" : "rpg"
+   },
+   {
+       "name" : "gran Turismo 7",
+       "price" : 299.00,
+       "image" : "gt7.jpg",
+       "type" : "corrida"
+   }
+]
+   
